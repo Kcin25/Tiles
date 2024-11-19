@@ -12,3 +12,6 @@
 4. Edwin Sedano
     - Student ID: 025668238 
     - Email: edwin.sedano@student.csulb.edu
+5. Nick Vincent Quinto
+    - Student ID: 029876117
+    - Email: nickvincent.quinto01@student.csulb.edu
